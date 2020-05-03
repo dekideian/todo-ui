@@ -1,0 +1,13 @@
+.todoElement{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px black;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    /* dev ed has a video on flex */
+    justify-content: space-around;
+    background: white;
+    min-width: 40%;
+    max-width: 50%;
+    align-items: 40%;
+}
